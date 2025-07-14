@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: ons-python-template-simple
+  name: ons-python-template-simple-backstage
   annotations:
-    github.com/project-slug: ONS-Innovation/ons-python-template-simple
+    github.com/project-slug: ONS-Innovation/ons-python-template-simple-backstage
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: experimental
   owner: spotify-backstage-trial-team
